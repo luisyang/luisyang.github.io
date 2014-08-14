@@ -1,4 +1,10 @@
-## 古文札记（三）——幽梦影之十恨 ##
+---
+layout: post
+category : Diaries
+title: 幽梦影之十恨
+tags : [poem]
+---
+
 
 接着上文，有一些东西，其实要单独拿出来品的
 

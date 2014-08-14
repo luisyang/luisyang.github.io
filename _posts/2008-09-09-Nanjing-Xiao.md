@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 南京小记一
+tags : [life,Nanjing]
+---
 ## 南京小记一 ##
 
 好说来了也有一礼拜了，尚在适应期中~~

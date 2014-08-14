@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 关于落水救人问题
+tags : [life]
+---
 ## 关于落水救人问题 ##
 
 

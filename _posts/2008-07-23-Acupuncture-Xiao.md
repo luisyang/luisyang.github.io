@@ -1,4 +1,10 @@
-## 关于针灸 ##
+---
+layout: post
+category : Diaries
+title: 关于针灸
+tags : [life,Yichun]
+---
+
 
 本来好好的想通过游泳开始自己的暑假减肥计划,不过貌似见效过慢,每每看到自己腿上肥肉,不禁想到
 

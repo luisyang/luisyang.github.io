@@ -1,4 +1,9 @@
-## 出行的计划 ##
+---
+layout: post
+category : Diaries
+title:  出行的计划 
+tags : [life]
+---
 
 
 最后的半年时光，如果说出行的话，应该是难得的机会了

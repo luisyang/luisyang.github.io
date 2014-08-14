@@ -1,4 +1,10 @@
-## 来自被人骗还帮别人数钱的小孩的点名 ##
+---
+layout: post
+category : Diaries
+title: 来自被人骗还帮别人数钱的小孩的点名
+tags : [answer]
+---
+
 
 规则:
 

@@ -1,4 +1,10 @@
-## 打牌 躲雨的生活 ##
+---
+layout: post
+category : Diaries
+title: 打牌 躲雨的生活 
+tags : [life,Shanghai,poem]
+---
+
 
 昨天的诺言，今天的西餐
 

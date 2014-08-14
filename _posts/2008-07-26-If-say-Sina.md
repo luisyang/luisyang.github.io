@@ -1,4 +1,10 @@
-## 七月偶感(如果说) ##
+---
+layout: post
+category : Diaries
+title: 七月偶感(如果说)
+tags : [life]
+---
+
 
 话题来自于某帖子,不能继续的八种恋情,只记得一种,痛了我半天
 

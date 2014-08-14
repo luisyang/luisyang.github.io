@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 关于固碳
+tags : [life]
+---
 ## 关于固碳 ##
 
 所里貌似新接了项目，我也被拉去旁听，这次的课题是固碳，是中科院目前的1号项目

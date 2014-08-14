@@ -1,4 +1,10 @@
-## 和火锅有关的故事 ##
+---
+layout: post
+category : Diaries
+title: 和火锅有关的故事
+tags : [life,Shanghai]
+---
+
 
 不得不说，我不喜欢火锅，虽然吃起来很爽，但第二天起来老觉得很难受
 

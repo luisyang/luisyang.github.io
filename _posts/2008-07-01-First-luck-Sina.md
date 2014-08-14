@@ -1,4 +1,10 @@
-## 七月偶感(关于幸之初) ##
+---
+layout: post
+category : Diaries
+title: 七月偶感(关于幸之初)
+tags : [poem]
+---
+
 
 幸,能说的太多,这里第一篇,主说幸初
 

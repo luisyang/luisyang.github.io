@@ -1,4 +1,10 @@
-## 厦门游记——海 ##
+---
+layout: post
+category : Travels
+title: 厦门游记——海
+tags : [trip]
+---
+
 
 关于海，说过的太多，但这次，又是不一样的喜欢
 

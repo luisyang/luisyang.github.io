@@ -1,4 +1,10 @@
-## 酒狂二首 ##
+---
+layout: post
+category : Diaries
+title: 酒狂二首
+tags : [poem]
+---
+
 
 端午日前，会伟哥生日，小分队重聚，酒醉不自当，狂语无人忌，了记所感
 

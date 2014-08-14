@@ -1,4 +1,10 @@
-## 七月偶感(关于幸的形状) ##
+---
+layout: post
+category : Diaries
+title: 七月偶感(关于幸的形状)
+tags : [love,poem]
+---
+
 
 幸是没有形状的吧,不过鉴于我那蹩脚的幸的解释,我来白描下好了 
 

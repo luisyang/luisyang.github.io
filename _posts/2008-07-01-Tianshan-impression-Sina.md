@@ -1,4 +1,10 @@
-## 印象-天山 ##
+---
+layout: post
+category : Travels
+title: 印象-天山
+tags : [trip]
+---
+
 
 天山,是我所知的最美的山的名字
 

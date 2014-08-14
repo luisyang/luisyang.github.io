@@ -1,4 +1,10 @@
-## 厦门 新学会的东东 ##
+---
+layout: post
+category : Travels
+title: 厦门 新学会的东东
+tags : [trip]
+---
+
 
 1.学会闯红灯
 

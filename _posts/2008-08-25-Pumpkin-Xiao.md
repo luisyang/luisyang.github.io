@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 飘去的南瓜
+tags : [life,Yichun]
+---
 ## 飘去的南瓜 ##
 
 话说家里种了三个月的南瓜从小到大,从绿到黄,终于修得正果

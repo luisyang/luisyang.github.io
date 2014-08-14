@@ -1,4 +1,10 @@
-## 我爱夏日长 ##
+---
+layout: post
+category : Diaries
+title: 我爱夏日长
+tags : [poem]
+---
+
 
 最喜欢的季节，便是现在，记起一句诗，我爱夏日长，续上三首，打油留念
 

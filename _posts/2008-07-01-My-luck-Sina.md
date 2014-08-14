@@ -1,4 +1,10 @@
-## 七月偶感(关于我的幸) ##
+---
+layout: post
+category : Diaries
+title: 七月偶感(关于我的幸)
+tags : [love,poem]
+---
+
 
 我的幸
 

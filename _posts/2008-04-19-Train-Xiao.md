@@ -1,4 +1,10 @@
-## 谈一点国事 ##
+---
+layout: post
+category : Diaries
+title: 谈一点国事
+tags : [life]
+---
+
 
 最近的主题，应该是家乐福和法国吧，原因就不多说了，希望不会被屏蔽
 

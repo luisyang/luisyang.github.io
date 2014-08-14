@@ -1,4 +1,10 @@
-## 毕业麻将大赛 ##
+---
+layout: post
+category : Diaries
+title: 毕业麻将大赛
+tags : [life,majiang,Yichun]
+---
+
 
 今天开始暑期毕业麻将大赛第一轮
 

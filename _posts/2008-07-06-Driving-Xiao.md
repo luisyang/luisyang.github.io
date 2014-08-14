@@ -1,4 +1,9 @@
-## 学开车 ##
+---
+layout: post
+category : Diaries
+title: 学开车
+tags : [life,Yichun]
+---
 
 喊到第四年,终于摸上车了
 

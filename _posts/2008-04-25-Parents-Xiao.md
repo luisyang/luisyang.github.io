@@ -1,4 +1,10 @@
-## 关于父爱和母爱 ##
+---
+layout: post
+category : Diaries
+title: 关于父爱和母爱
+tags : [life,Shanghai]
+---
+
 
 老黄明天去参加面试，问我有没有公文包，记得我大一时候曾经的那个公文包，找了出来，清理一下准备给老黄
 

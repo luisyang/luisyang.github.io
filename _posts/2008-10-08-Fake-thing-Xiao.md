@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 山寨惹的祸
+tags : [life]
+---
 ## 山寨惹的祸 ##
 
 山寨的出现简直就是为了挑战我的极限

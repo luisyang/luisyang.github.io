@@ -1,4 +1,10 @@
-## 好想再画一副水彩 ##
+---
+layout: post
+category : Diaries
+title: 好想再画一副水彩
+tags : [love,poem]
+---
+
 
 好想再画一副水彩
 

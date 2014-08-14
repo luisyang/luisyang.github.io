@@ -1,4 +1,10 @@
-## 爱 厦门 ##
+---
+layout: post
+category : Travels
+title: 爱 厦门
+tags : [trip,poem]
+---
+
 
 爱，我又爱了
 

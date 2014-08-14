@@ -1,4 +1,10 @@
-## 六月偶感(关于早恋) ##
+---
+layout: post
+category : Diaries
+title: 六月偶感(关于早恋)
+tags : [love]
+---
+
 
 早恋是不好的，我一直这么认为
 

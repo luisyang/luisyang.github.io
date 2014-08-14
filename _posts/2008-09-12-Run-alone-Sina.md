@@ -1,4 +1,10 @@
-## 九月偶感(一个人赛跑) ##
+---
+layout: post
+category : Diaries
+title: 九月偶感(一个人赛跑)
+tags : [life]
+---
+
 
 没有对手，亦没有队友
 

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 最后的厦门
+tags : [life,Shanghai]
+---
 ## 最后的厦门 ##
 
 早上刷牙,那管最小号的黑人牙膏用完了,会然一笑,三个月前的事,到今天,终于算是干净了

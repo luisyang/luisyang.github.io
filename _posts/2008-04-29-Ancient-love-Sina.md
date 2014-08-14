@@ -1,4 +1,10 @@
-## 古情深深 ##
+---
+layout: post
+category : Diaries
+title: 古情深深
+tags : [life]
+---
+
 
 所谓盛名之下，其实难副，不过，听到曲子的同学们应该知道答案了，这次副了
 

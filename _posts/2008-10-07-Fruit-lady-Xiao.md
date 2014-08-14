@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 姑娘
+tags : [life,food]
+---
 ## 姑娘 ##
 
 来南京去表叔家吃饭，板鸭，咸水鸭居然还有烤鸭，我才知道，南京是鸭子的地狱

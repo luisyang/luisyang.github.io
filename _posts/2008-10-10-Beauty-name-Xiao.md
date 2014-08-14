@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 美女之名
+tags : [life,love]
+---
 ## 美女之名 ##
 
 向来认为女人的名字比男人重要，比如我的名字再不济，也强过曹操蒋干阮小二，而女人的名字则相对重要多了

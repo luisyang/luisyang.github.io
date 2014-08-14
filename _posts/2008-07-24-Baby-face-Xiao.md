@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 关于baby face
+tags : [life,Yichun]
+---
 ## 关于baby face ##
 
 话说今天又去扎针,也无所谓,偏偏老妈怂恿说扎针顺便可以做面膜护理,总归是老妈掏钱,挣扎一会便应了，顶着肚子上12根针做面膜,我以为一辈子都不会做的事....

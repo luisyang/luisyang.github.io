@@ -1,4 +1,10 @@
-## 千里暮云平 ##
+---
+layout: post
+category : Diaries
+title: 千里暮云平
+tags : [life]
+---
+
 
 结束了，剩下的扫尾工作后
 

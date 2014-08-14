@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: (转)笑话一则——孙悟空是mm的证据
+tags : [life]
+---
 ## (转)笑话一则——孙悟空是mm的证据 ##
 
 1、孙悟空虽有定身法，居然从来不调戏美女 

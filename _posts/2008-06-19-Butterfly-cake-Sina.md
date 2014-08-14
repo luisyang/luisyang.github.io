@@ -1,4 +1,10 @@
-## 六月偶感(关于蝴蝶酥) ##
+---
+layout: post
+category : Diaries
+title: 六月偶感(关于蝴蝶酥)
+tags : [love,food]
+---
+
 
 很怀旧的词了，突然出现，忍不住回忆
 
