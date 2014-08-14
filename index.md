@@ -8,4 +8,4 @@ title: 牛羊下山了
 
 ## 专注自娱自乐二十年 ##
 
-![专注自娱自乐二十年](http://img5.douban.com/view/photo/photo/public/p2195656447.jpg)
+![](http://img5.douban.com/view/photo/photo/public/p2195656447.jpg)
