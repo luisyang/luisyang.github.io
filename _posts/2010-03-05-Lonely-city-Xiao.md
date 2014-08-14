@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 一座寂寞的城市
+tags : [life,Yichun]
+---
 ## 一座寂寞的城市 ##
 
 早上看到新闻，说是宜春上了头条，不过和网友说的也差不多，或许，这是一座寂寞的城市

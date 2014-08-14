@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: Mayfly
+tags : [life]
+---
 ## Mayfly ##
 
 最近憋坏了，一口气决定写很多，看了莫怪

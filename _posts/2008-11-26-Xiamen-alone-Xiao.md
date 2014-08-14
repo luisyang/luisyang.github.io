@@ -1,3 +1,10 @@
+---
+layout: post
+category : Travels
+title: 私奔到厦门
+tags : [trip, poem]
+---
+
 ## 私奔到厦门 ##
 
 厦门便是我的命门，哪怕偷偷去的只有我一人

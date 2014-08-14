@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 大师受困记
+tags : [life]
+---
 ## 大师受困记 ##
 
 8点南大的课，就意味着7点开路，6点起床，不过为了让-雷诺，还是挺值的

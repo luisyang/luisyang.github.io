@@ -1,3 +1,9 @@
+---
+layout: post
+category : Travels
+title: 六日奇谈
+tags : [trip]
+---
 ## 六日奇谈 ##
 
 7月2日AM7：00出发---7月7日PM9：30回来

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 关于自行车的一切
+tags : [life]
+---
 ## 关于自行车的一切 ##
 
 关于自行车，可以说的太多太多

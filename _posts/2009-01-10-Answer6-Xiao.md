@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 回六爷的点名
+tags : [life]
+---
 ## 回六爷的点名 ##
 
 １．你有曾经喜欢过非异性吗?？

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 乡愁
+tags : [life, Yichun]
+---
 ## 乡愁 ##
 
 不知道今年五一到底有几天假，不过，如果是七天的话，我想我会回家一趟吧

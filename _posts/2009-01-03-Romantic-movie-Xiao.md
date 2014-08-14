@@ -1,3 +1,9 @@
+---
+layout: post
+category : Reviews
+title: 或许应该浪漫一点
+tags : [movie]
+---
 ## 或许应该浪漫一点 ##
 
 元旦第一天在寝室看电影，《非诚勿扰》，《K歌情人》

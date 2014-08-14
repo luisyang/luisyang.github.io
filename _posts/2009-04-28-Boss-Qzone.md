@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 我的老板不爱我
+tags : [life, Nanjing]
+---
 ## 我的老板不爱我（和近试上张水部） ##
 
 > 洞房昨夜停红烛，

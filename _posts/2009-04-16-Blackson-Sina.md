@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 四月偶感(关于黑子)
+tags : [Yichun]
+---
 ## 四月偶感(关于黑子) ##
 
 话说寒假结束没多久，家里有养了只狗狗，6个月大的藏獒，到现在，快十个月了吧

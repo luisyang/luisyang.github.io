@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 双年展VS三年展 
+tags : [life]
+---
 ## 双年展VS三年展 ##
 
 上海的双年展看的郁闷，就跑回南京看三年展了

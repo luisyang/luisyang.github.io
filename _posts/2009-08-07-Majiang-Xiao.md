@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 末代麻将
+tags : [Majiang, Yichun]
+---
 ## 末代麻将 ##
 
 回来之后天气一直不佳，或者说如果天气好些，其实也没什么吧

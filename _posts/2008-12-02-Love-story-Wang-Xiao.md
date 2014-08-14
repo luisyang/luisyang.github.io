@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 春天的二师兄
+tags : [love]
+---
 ## 春天的二师兄 ##
 
 一直以为二师兄两耳不闻窗外事，一心只读圣贤书，不过冬天来了，春天，也不远了

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 上海制造
+tags : [life]
+---
 ## 上海制造 ##
 
 天天做实验，有些些崩溃，挤点东西出来娱乐下自己吧

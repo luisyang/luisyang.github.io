@@ -1,3 +1,9 @@
+---
+layout: post
+category : Travels
+title: 东南总结
+tags : [trip]
+---
 ## 东南总结 ##
 
 结束浙闽之行刚回，总写一些，暂不说逻辑二字

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 芦荟之恋
+tags : [poem]
+---
 ## 芦荟之恋 ##
 
 > 不经意间，遇见，遇到，然后开始喜欢，再到离不开，我想我开始有些明白

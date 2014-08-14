@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 回完一姐回二哥
+tags : [life]
+---
 ## 回完一姐回二哥 ##
 
 我是不介意一套题点两遍的，大家看恶心了我也不介意……

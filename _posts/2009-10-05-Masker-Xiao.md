@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: Masker-麻子客
+tags : [love, Yichun]
+---
 ## Masker-麻子客 ##
 
 昨天堂姐结婚，虽然我也算阅礼无数，不过同辈里的婚礼，这估计还是第一次吧，且慢慢道来

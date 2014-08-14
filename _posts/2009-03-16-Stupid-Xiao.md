@@ -1,3 +1,9 @@
+---
+layout: post
+category : Reviews
+title: 关于脑残
+tags : [movie]
+---
 ## 关于脑残 ##
 
 

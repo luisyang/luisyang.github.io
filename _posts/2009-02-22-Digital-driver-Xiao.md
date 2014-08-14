@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 存储设备发展史（个人版）
+tags : [life]
+---
 ## 存储设备发展史（个人版） ##
 
 上礼拜买U盘去了，我是属于顶喜欢U盘的人，江湖人称盘之I love U，小小忆起些些

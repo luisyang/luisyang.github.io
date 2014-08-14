@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 失败投资案例个人版
+tags : [life]
+---
 ## 失败投资案例个人版 ##
 
 最近运气很背，晒一晒，转一转吧

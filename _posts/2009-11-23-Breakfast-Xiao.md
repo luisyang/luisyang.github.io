@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 早餐进化史
+tags : [food]
+---
 ## 早餐进化史 ##
 
 虽然很少吃早饭，不过双休日睡懒觉能吃点东西，始终是一件很爽的事

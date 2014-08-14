@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 人生的三个维度
+tags : [life]
+---
 ## 人生的三个维度 ##
 
 不记得是在哪看到的，且以此总结下08，憧憬下09~~

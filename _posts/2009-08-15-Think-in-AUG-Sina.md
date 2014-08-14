@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 八月偶感（若有所思）
+tags : [life]
+---
 ## 八月偶感（若有所思） ##
 
 八月也是我喜欢的季节，站在尾巴上，没有主题的写点东西

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 一样没有
+tags : [life]
+---
 ## 一样没有 ##
 
 我和我的自行车一样，有三个月没有打过气了

@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 伤心一片海(人一篇)
+tags : [life,Shanghai, poem,trip]
+---
 ## 伤心一片海(人一篇) ##
 
 伤海归来，慨叹良多

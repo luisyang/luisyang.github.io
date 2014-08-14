@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 小日子
+tags : [life, Nanjing]
+---
 ## 小日子 ##
 
 连续晴了有快两个礼拜，能晒的都晒了吧

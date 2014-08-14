@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 秋葵
+tags : [food, Yichun]
+---
 ## 秋葵 ##
 
 老板的德国师兄过来开会，由师姐陪同，开会的水果有一样是青枣，或者叫冬枣吧，老外很喜欢吃，问这是什么，老板说，这是Chinese date，枣和date一联系，大家居然都想到了一个人，不错，正是鲁迅先生

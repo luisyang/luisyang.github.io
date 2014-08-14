@@ -1,8 +1,8 @@
 ---
 layout: post
-category : Diaries
+category : Reviews
 title: 柔软的记忆
-tags : [life]
+tags : [movie,music]
 ---
 ## 柔软的记忆 ##
 
