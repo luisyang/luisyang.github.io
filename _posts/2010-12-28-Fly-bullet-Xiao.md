@@ -1,3 +1,10 @@
+---
+layout: post
+category : Reviews
+title: 子弹还在飞
+tags : [movie]
+---
+
 ## 子弹还在飞 ##
 
 这个时候评价《让子弹飞》应该不存在剧透问题了吧……

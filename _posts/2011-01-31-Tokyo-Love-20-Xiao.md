@@ -1,3 +1,9 @@
+---
+layout: post
+category : Reviews
+title: 只在东京发生的爱情故事
+tags : [love,movie]
+---
 ## 东爱二十年及其他 ##
 
 第一次看东爱，居然是东爱上映二十周年祭，有同样喜欢东爱的朋友们组织了活动，老夫还是后知后觉，没有来得及参与，不过借机分享一下http://yule.sohu.com/s2011/tokyolovestory/

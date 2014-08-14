@@ -1,3 +1,11 @@
+---
+layout: post
+category : Reviews
+title: 暴风雨的记忆
+tags : [book]
+---
+
+
 ## 《暴风雨的记忆》读书笔记 ##
 
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/2652305_orig.jpg)

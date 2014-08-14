@@ -1,3 +1,10 @@
+---
+layout: post
+category : Diaries
+title: 使君与操
+tags : [life,Yichun]
+---
+
 ## 使君与操 ##
 
 算上宜丰的一周，回来也有十天了，除去偶遇的小白，暑期见着的同学也只有牛蛙了，三瓶啤酒下肚，胡言乱语穿肠，有此一篇

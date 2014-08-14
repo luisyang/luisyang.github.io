@@ -1,3 +1,11 @@
+---
+layout: post
+category : Reviews
+title: 巨流河
+tags : [book]
+---
+
+
 ## 《巨流河》读书笔记 ##
 
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/9932808.jpg?210)

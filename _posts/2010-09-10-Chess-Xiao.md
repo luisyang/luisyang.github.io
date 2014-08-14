@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 人生如棋
+tags : [life]
+---
 ## 人生如棋 ##
 
 [原帖](http://www.douban.com/group/topic/3156364/)

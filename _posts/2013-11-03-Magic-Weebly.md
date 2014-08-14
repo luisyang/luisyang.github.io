@@ -1,3 +1,11 @@
+---
+layout: post
+category : Reviews
+title: 魔术的魅力
+tags : [book，movie]
+---
+
+
 ## 魔术的魅力 ##
 
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/4223589_orig.jpg)

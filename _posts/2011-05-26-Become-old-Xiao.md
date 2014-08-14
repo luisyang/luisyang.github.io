@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 不知老之将至
+tags : [life, Nanjing]
+---
 ## 不知老之将至 ##
 
 故事的起源在某次要师妹还钱，师妹来了一句：“师兄，你再不减肥就要老啦！！”于是师妹成功地又多欠了半个月……

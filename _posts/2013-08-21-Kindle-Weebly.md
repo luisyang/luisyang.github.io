@@ -1,3 +1,11 @@
+---
+layout: post
+category : Reviews
+title: Kindle的故事
+tags : [book，life]
+---
+
+
 ## Kindle的故事 ##
 
 第一代Kindle于2007年11月19日发布

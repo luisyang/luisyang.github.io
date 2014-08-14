@@ -1,3 +1,9 @@
+---
+layout: post
+category : Reviews
+title: 梦的细节
+tags : [movie]
+---
 ## 梦的细节 （盗梦空间无剧透细节评析） ##
 　　  
 　　

@@ -1,3 +1,12 @@
+---
+layout: post
+category : Diaries
+title: 爱情故事
+tags : [love]
+---
+
+
+
 ## 爱情故事 ##
 
 今天是张慧和谢浩大喜的日子，见证他们故事的一些，便有此一篇。

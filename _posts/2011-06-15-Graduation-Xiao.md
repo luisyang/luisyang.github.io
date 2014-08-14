@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 散伙饭及其他
+tags : [life, Nanjing]
+---
 ## 散伙饭及其他 ##
 
 今年六月的毕业季，原本也是我的毕业季，算来应该是大学毕业后的又一次散伙饭，不过，可能也只能算半次吧

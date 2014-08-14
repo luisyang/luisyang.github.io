@@ -1,3 +1,9 @@
+---
+layout: post
+category : Reviews
+title: The Big Bang Theory是宫廷戏
+tags : [movie]
+---
 ## The Big Bang Theory是宫廷戏 ##
 
 突然觉得TBBT很像一部国产重磅古装宫廷戏 

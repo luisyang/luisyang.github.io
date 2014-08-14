@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 再别红尘
+tags : [life, Yichun]
+---
 ## 再别红尘 ##
 
 这个春假，说来，还是有些长吧，想些的东西又乱又多，也就成了大杂烩

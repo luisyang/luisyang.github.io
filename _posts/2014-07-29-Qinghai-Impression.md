@@ -1,3 +1,10 @@
+---
+layout: post
+category : Travels
+title: 明朝那些事儿
+tags : [trip]
+---
+
 ## 印象 青海 ##
 
 ### 青 ###

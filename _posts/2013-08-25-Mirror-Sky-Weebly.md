@@ -1,3 +1,11 @@
+---
+layout: post
+category : Reviews
+title: 天空の鏡
+tags : [movie]
+---
+
+
 ## 天空の鏡 ##
 
 [南美玻利维亚乌尤尼盐原纪行](http://movie.douban.com/subject/6395463/)

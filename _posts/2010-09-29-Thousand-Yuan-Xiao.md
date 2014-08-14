@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 从一块到一千
+tags : [life]
+---
 ## 从一块到一千 ##
 
 看过帅哥的日记，很有感触，照着格式写一篇，多少算个总结

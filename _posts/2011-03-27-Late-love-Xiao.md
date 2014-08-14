@@ -1,3 +1,10 @@
+---
+layout: post
+category : Diaries
+title: 拯救大龄青年
+tags : [life, love]
+---
+
 ## 拯救大龄青年 ##
 
 难得帅哥写一篇小清新风格，就差点被大家掰弯，这就是咱大龄青年的悲哀

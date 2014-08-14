@@ -1,3 +1,9 @@
+---
+layout: post
+category : Travels
+title: 印象-海巢
+tags : [trip, poem]
+---
 ## 印象-海巢 ##
 
 到厦门的第一天，天气炎炎，甩开去看金门的大部队，偷组去海巢的小分队
