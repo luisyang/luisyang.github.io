@@ -1,4 +1,11 @@
-## 达人的对穿肠(转自追风筝的人) ##
+---
+layout: post
+category : Diaries
+title: 达人的对穿肠(转自追风筝的人)
+tags : [life]
+---
+
+
 
 > 秋香版
 

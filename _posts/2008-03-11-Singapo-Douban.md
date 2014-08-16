@@ -1,4 +1,10 @@
-## 关于新加坡 ##
+---
+layout: post
+category : Diaries
+title: 关于新加坡
+tags : [life]
+---
+
 
 终于在学校的阅览室找到第三期海外篇了，其实是二月号吧哈哈
 

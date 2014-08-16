@@ -1,4 +1,10 @@
-## 雀圣大赛第一轮 ##
+---
+layout: post
+category : Diaries
+title: 雀圣大赛第一轮
+tags : [life,Yichun,majiang]
+---
+
 
 第一轮联赛开打:
 

@@ -1,4 +1,10 @@
-## 四月偶感(关于红豆) ##
+---
+layout: post
+category : Diaries
+title: 四月偶感(关于红豆)
+tags : [love,poem]
+---
+
 
     红豆生南国  
     

@@ -1,4 +1,10 @@
-## 雪飞无香 ##
+---
+layout: post
+category : Diaries
+title: 雪飞无香
+tags : [life，Yichun]
+---
+
 
 宋老师是最后一个让我留下有趣映像的老师吧（或者说大学里的春哥是宋的另类版吧哈哈）
 

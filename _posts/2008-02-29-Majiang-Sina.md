@@ -1,4 +1,10 @@
-## 三月偶感(关于麻将) ##
+---
+layout: post
+category : Diaries
+title: 三月偶感(关于麻将)
+tags : [life,majiang]
+---
+
 
 这次寒假回去最后悔的,就是没好好多打几圈,为此文以记之
  

@@ -1,4 +1,10 @@
-## 回忆里的栀子 ##
+---
+layout: post
+category : Diaries
+title: 回忆里的栀子
+tags : [life]
+---
+
 
 栀子花——传说中的爱之花，但对于我，可谓是无缘之花吧
  

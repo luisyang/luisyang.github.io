@@ -1,4 +1,10 @@
-## 闻到夏天的味道再离开 ##
+---
+layout: post
+category : Diaries
+title: 闻到夏天的味道再离开
+tags : [life,Yichun]
+---
+
 
 这个寒假,宜春也经历了罕见的大雪,不过到了要离开的日子,终于放出了去年寒假一般的大晴
  

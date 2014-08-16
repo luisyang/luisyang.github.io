@@ -1,4 +1,10 @@
-## 雀圣大赛第二轮(小学毕业十周年) ##
+---
+layout: post
+category : Diaries
+title: 雀圣大赛第二轮(小学毕业十周年
+tags : [life,majiang,Yichun]
+---
+
 
 第二轮联赛开打:
 

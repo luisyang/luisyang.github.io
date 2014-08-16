@@ -1,4 +1,10 @@
-## 雀圣大赛第三轮(决战雀巢之颠) ##
+---
+layout: post
+category : Diaries
+title: 雀圣大赛第三轮(决战雀巢之颠)
+tags : [life,majiang,Yichun]
+---
+
 
 第三轮联赛开打:
 

@@ -1,4 +1,10 @@
-## 淡去的桂花香 ##
+---
+layout: post
+category : Diaries
+title: 淡去的桂花香
+tags : [life,Yichun]
+---
+
 
 说了很久，但最近堕落非常，直到今天才提笔写第一篇，第一篇说的就是启蒙老师--敖老师
  
