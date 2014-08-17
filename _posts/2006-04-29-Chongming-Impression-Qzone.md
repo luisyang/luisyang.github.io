@@ -1,4 +1,10 @@
-## 印象-崇明 ##
+---
+layout: post
+category : Diaries
+title: 印象-崇明
+tags : [trip,Shanghai,poem]
+---
+
 
    余虽及弱冠之年，然长于山而成于陆，虽观图听曲，未亲尝望海之快，是以为人生一憾矣！
 

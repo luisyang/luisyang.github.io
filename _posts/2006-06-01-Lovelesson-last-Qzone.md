@@ -1,4 +1,10 @@
-## 爱情课最终之章~老师们的爱情  ##
+---
+layout: post
+category : Reviews
+title: 爱情课最终之章~老师们的爱情
+tags : [class,love]
+---
+
 
 ###英语老师
 

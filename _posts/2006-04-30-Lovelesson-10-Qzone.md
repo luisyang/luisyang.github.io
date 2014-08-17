@@ -1,4 +1,10 @@
-## 爱情课(第十讲)  ##
+---
+layout: post
+category : Reviews
+title: 爱情课(第十讲)
+tags : [book,class]
+---
+
 
 第十讲  司汤达  <红与黑>
 

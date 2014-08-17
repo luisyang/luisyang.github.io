@@ -1,4 +1,10 @@
-##暗室（记摄影课）
+---
+layout: post
+category : Diaries
+title: 暗室（记摄影课）
+tags : [life]
+---
+
 
 冲洗胶卷，一项从未作过但有让人心驰的工作。
 

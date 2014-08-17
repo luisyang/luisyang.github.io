@@ -1,4 +1,10 @@
-## 刘春说 ##
+---
+layout: post
+category : Reviews
+title: 刘春说
+tags : [Shanghai,book]
+---
+
 
 刘春说：不能空空得来，空空得走，要学到点东西
 

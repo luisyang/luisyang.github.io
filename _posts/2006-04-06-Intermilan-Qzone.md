@@ -1,4 +1,10 @@
-##国际米兰
+---
+layout: post
+category : Diaries
+title: 国际米兰
+tags : [Inter]
+---
+
 
 有些伤心了    又一次倒下 
  

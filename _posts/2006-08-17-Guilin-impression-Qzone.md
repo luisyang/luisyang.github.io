@@ -1,3 +1,4 @@
+
 ---
 layout: post
 category : Travels
@@ -5,7 +6,7 @@ title: 桂林游记
 tags : [trip, life]
 ---
 
-## 桂林游记-选择  ##
+
 
 仁者爱山，智者乐水；仁者寿，智者趣
 

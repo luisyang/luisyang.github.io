@@ -1,4 +1,10 @@
-## 平差的哲学和艺术  ##
+---
+layout: post
+category : Reviews
+title: 平差的哲学和艺术
+tags : [class]
+---
+
 
 学了一学期平差，有了些许感悟，记之以铭之
 

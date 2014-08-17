@@ -1,4 +1,10 @@
-## 爱情课(第九讲)(完美终结版) ## 
+---
+layout: post
+category : Reviews
+title: 爱情课(第九讲)(完美终结版)
+tags : [book,class]
+---
+
 
 第九讲  雨果  <巴黎圣母院>
 

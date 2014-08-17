@@ -1,4 +1,10 @@
-##何为了解
+---
+layout: post
+category : Diaries
+title: 何为了解
+tags : [life]
+---
+
 
 看一个国家的国民教育，要看他的公共厕所。 
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 category : Travels
-title: 北京游记
+title: 北京游记-帝都之梦（大长篇）
 tags : [trip, life]
 ---
 
-## 北京游记-帝都之梦（大长篇） ##
+
 
 北京
 
