@@ -1,4 +1,10 @@
-## 水彩伊人 ##
+---
+layout: post
+category : Diaries
+title: 水彩伊人
+tags : [life,love,poem,Shanghai]
+---
+
 
 这学期因为课业不忙,就选了三门选修课,其中有一门是素描,心仪许久的课了
 

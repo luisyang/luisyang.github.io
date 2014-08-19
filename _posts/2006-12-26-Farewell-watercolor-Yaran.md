@@ -1,4 +1,10 @@
-## 再见水彩 ##
+---
+layout: post
+category : Diaries
+title: 再见水彩
+tags : [poem,Shanghai,love]
+---
+
 
 转眼又到学期末
 

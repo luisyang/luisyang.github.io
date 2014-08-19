@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 12月偶感(关于爱的经典)
+tags : [love,poem]
+---
 ## 12月偶感(关于爱的经典) ##
 
 1.叶子的离开,是因为风的追求,还是树的不挽留?

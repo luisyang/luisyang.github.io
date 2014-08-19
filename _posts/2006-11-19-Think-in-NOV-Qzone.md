@@ -1,4 +1,10 @@
-## 偶感 ##
+---
+layout: post
+category : Diaries
+title: 偶感
+tags : [life]
+---
+
 
 偶有所感
 

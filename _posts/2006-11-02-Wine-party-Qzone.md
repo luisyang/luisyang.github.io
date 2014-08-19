@@ -1,4 +1,10 @@
-## 酒神! ##
+---
+layout: post
+category : Diaries
+title: 酒神
+tags : [Shanghai,poem]
+---
+
 
 由于家教甚严,及二十而未尝一醉,每举酒嘱客,家父必顶,家母必劝,一醉之难求,可知也~
 
