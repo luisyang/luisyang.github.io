@@ -31,7 +31,7 @@ h1, h2, h3, h4 {
 .post > h3.title span.date {
   position: absolute;
   right: 0;
-  font-size: 0.9em; }
+  font-size: 1.3em; }
 
 .post > .more {
   margin: 10px 0;
