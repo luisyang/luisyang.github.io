@@ -1,4 +1,10 @@
-## 雨中II ##
+---
+layout: post
+category : Diaries
+title: 雨中II
+tags : [life,Shanghai]
+---
+
 
 又是一天,上午基本不知道干了些什么,很庆幸的扎江出现把我叫走
  

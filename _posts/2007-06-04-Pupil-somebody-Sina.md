@@ -1,4 +1,10 @@
-## 小学二三事（人一篇） ##
+---
+layout: post
+category : Diaries
+title: 小学二三事（人一篇）
+tags : [life]
+---
+
 
 小学的人其实记的已经不多了,和初中的记忆有些混合
 

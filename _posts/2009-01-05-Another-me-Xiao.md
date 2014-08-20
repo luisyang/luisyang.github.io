@@ -2,9 +2,9 @@
 layout: post
 category : Diaries
 title: 另一个自己的气息
-tags : [life, Nangjing]
+tags : [life, Nanjing]
 ---
-## 另一个自己的气息 ##
+
 
 假使没有读研，在上海混迹的我，从小孩那好好的上了一课
 

@@ -1,4 +1,9 @@
-## 棋师 ##
+---
+layout: post
+category : Diaries
+title: 棋师
+tags : [围棋]
+---
 
 其实关于围棋,第一篇应该是这一篇
  

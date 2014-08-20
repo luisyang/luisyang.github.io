@@ -6,7 +6,7 @@ tags : [book]
 ---
 
 
-## 《芙蓉镇》读书笔记 ##
+
 
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/5723144.jpg?248)
 

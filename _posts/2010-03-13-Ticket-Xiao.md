@@ -2,9 +2,9 @@
 layout: post
 category : Diaries
 title: 思念是一张车票
-tags : [Nangjing,Shanghai,alcohol]
+tags : [Nanjing,Shanghai,alcohol]
 ---
-## 思念是一张车票 ##
+
 
 知道陆班来南京的消息，激动的有些睡不着觉，09年一年，我把所有的假期时间都花在回家上，那张93元到上海的车票，我始终没有买下，就这样和大家一年都没有见
 

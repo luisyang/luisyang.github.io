@@ -2,9 +2,9 @@
 layout: post
 category : Diaries
 title: 湖边怨魂
-tags : [life,Nangjing]
+tags : [life,Nanjing]
 ---
-## 湖边怨魂 ##
+
 
 不回家还是挺无聊的，尤其是二师兄去上海，三师弟回镇江，要我独守空闺的时候
 

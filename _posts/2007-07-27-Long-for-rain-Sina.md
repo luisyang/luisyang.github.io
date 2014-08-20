@@ -1,4 +1,10 @@
-## 乞雨V ##
+---
+layout: post
+category : Diaries
+title: 乞雨V
+tags : [life,Shanghai]
+---
+
 
 第一阶段的实习到此算是告一段落,明天就交成果了,很是对不起大家,因为上英语,所以并没有全身心的投入实习,当了拖油瓶...confessing__!
  

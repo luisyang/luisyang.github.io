@@ -1,4 +1,10 @@
-## 王者的游戏  ##
+---
+layout: post
+category : Diaries
+title: 王者的游戏
+tags : [life]
+---
+
 
 这个评价来自于我最喜欢的游戏－－帝国时代和我最喜欢的电影－－肖申克的救赎
 

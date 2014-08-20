@@ -1,4 +1,10 @@
-## 小学二三事（事一篇） ##
+---
+layout: post
+category : Diaries
+title: 小学二三事（事一篇）
+tags : [life]
+---
+
 
 小学的事就多了
 

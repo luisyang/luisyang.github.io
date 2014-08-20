@@ -6,8 +6,6 @@ tags : [book]
 ---
 
 
-## 《巨流河》读书笔记 ##
-
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/9932808.jpg?210)
 ![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/1378008691.jpg)![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/6178081.jpg?238)![](http://luisyang.weebly.com/uploads/2/2/7/2/22721706/7647443.jpg?244)
 

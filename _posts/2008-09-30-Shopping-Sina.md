@@ -2,9 +2,9 @@
 layout: post
 category : Diaries
 title: 水游城一日
-tags : [life,Nangjing]
+tags : [life,Nanjing]
 ---
-## 水游城一日 ##
+
 
 放假后，决定不回家，来回路费可以省下700大洋，至于上海嘛，10-1之后再去吧
 

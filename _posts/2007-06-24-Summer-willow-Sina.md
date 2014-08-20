@@ -1,4 +1,10 @@
-## 夏雨折柳 ##
+---
+layout: post
+category : Diaries
+title: 夏雨折柳
+tags : [poem]
+---
+
 
 黄梅时节雨,愁杀赶路人 
 

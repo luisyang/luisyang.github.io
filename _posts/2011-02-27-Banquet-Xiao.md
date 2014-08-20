@@ -2,10 +2,10 @@
 layout: post
 category : Diaries
 title: 牛的盛宴
-tags : [life, Nanjing ,ancient]
+tags : [life, Nanjing ,poem]
 ---
 
-## 牛的盛宴 ##
+
 
 水牛传来的消息，吴琼来南京面公务员，他来接待，接待不低，定在云中捞，贵与不贵，总是一吃
 

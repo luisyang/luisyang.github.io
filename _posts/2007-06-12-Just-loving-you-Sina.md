@@ -1,4 +1,10 @@
-## 只是爱着你 ##
+---
+layout: post
+category : Reviews
+title: 只是爱着你
+tags : [movie]
+---
+
 
 ![](http://img1.mtime.com/pi/d/2006/44/2006119181941.1420757.jpg)
 

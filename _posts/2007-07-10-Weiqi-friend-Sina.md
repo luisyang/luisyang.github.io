@@ -1,4 +1,10 @@
-## 棋友 ##
+---
+layout: post
+category : Diaries
+title: 棋友
+tags : [围棋]
+---
+
 
 有了棋材后,突然发现了个比棋材更重要的东西,就是----谁来陪我下棋
 

@@ -1,4 +1,10 @@
-## 霁III ##
+---
+layout: post
+category : Diaries
+title: 霁III
+tags : [life,Shanghai]
+---
+
 
 一天比一天要热了,到了今天则犹然,按节气的话今天是大暑,所以连前两天的雨都没有,所谓日光倾城吧
  

@@ -1,4 +1,10 @@
-## 困 ##
+---
+layout: post
+category : Diaries
+title: 困
+tags : [life,Shanghai]
+---
+
 
 考试后就是大四的生活,关于未来,有些迷茫,已经有同学为了校外的挂职锻炼放弃校内的实习,而也有像我一样的准备考研的(内心还是静不下来)
  
