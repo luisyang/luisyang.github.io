@@ -1,4 +1,10 @@
-## 六月偶感(关于毕业) ##
+---
+layout: post
+category : Diaries
+title: 六月偶感(关于毕业)
+tags : [life,Shanghai]
+---
+
 
 突然发现自己的偶感很乱,想每个月写一篇结果月初就写好了,反而把中间很多偶感给忘了...
 

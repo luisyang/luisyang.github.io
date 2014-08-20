@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 点名
+tags : [answer]
+---
 
 1.如果让你用生命换一个愿望，你会许什么？
 

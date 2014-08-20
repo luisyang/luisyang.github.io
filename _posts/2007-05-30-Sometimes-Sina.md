@@ -1,4 +1,10 @@
-## 五月末偶感(关于有时) ##
+---
+layout: post
+category : Diaries
+title: 五月末偶感(关于有时)
+tags : [poem]
+---
+
 
   
 笑有时,哭亦有时

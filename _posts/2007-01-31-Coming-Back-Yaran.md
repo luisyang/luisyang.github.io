@@ -1,4 +1,10 @@
-## 归来记 ##
+---
+layout: post
+category : Diaries
+title: 归来记
+tags : [life,Shanghai]
+---
+
 
 回来了,略记过程云云
 

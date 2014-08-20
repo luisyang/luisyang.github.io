@@ -1,4 +1,10 @@
-## 告别二十 ##
+---
+layout: post
+category : Diaries
+title: 告别二十
+tags : [summary]
+---
+
 
 06年,20岁了,人生中最美好的时段,也是开始奔三的年龄
 
