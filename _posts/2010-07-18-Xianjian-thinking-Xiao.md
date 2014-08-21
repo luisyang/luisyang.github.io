@@ -1,8 +1,8 @@
 ---
 layout: post
-category : Xianjian
+category : 仙剑
 title: 由仙剑说开去
-tags : [novel]
+tags : [仙思]
 ---
 ## 由仙剑说开去(之一) ##
 

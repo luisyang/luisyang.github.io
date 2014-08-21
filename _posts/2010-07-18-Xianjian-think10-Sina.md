@@ -1,10 +1,10 @@
 ---
 layout: post
-category : Xianjian
+category : 仙剑
 title: 仙思(十)-城墙
 tags : [仙思]
 ---
-## 仙思(十)-城墙 ##
+
 
 这篇并不以仙思为主，只是由仙剑说开，很久很久没有更新这块内容，偶尔翻一遍，江湖早在青山外 
 

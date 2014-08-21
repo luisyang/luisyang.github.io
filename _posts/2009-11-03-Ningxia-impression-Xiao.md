@@ -4,7 +4,7 @@ category : Travels
 title: 宁夏印象
 tags : [trip,poem]
 ---
-## 宁夏印象 ##
+
 
 这里的天很蓝，云很白
 
