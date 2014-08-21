@@ -1,4 +1,10 @@
-## 十二月偶感(关于背叛) ##
+---
+layout: post
+category : Diaries
+title: 十二月偶感(关于背叛)
+tags : [life]
+---
+
 
 违背初衷,违背契约,违背信任,违背信仰,谓之背叛
  

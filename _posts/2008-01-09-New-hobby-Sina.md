@@ -1,4 +1,10 @@
-## 新习惯 ##
+---
+layout: post
+category : Diaries
+title: 新习惯 
+tags : [life]
+---
+
 
 最近的乱七八糟的新习惯(主要是乱七八糟的看了许多新东西吧)
  

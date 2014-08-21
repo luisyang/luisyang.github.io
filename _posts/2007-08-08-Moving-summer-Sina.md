@@ -1,4 +1,10 @@
-## 暑假前感动 TOP10 ##
+---
+layout: post
+category : Diaries
+title: 暑假前感动 TOP10
+tags : [life]
+---
+
 
 大三的暑假,可能也就是人生中最后一个暑假,马上就要回家了休假了,把一些最近感动我的人和事贴上来
  

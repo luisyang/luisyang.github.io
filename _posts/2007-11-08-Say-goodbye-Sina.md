@@ -1,4 +1,10 @@
-## 道一声珍重 ##
+---
+layout: post
+category : Diaries
+title: 道一声珍重
+tags : [life,Shanghai,poem]
+---
+
 
 十  月,风起云涌
  

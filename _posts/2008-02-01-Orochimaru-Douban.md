@@ -1,4 +1,10 @@
-## 缅怀大蛇丸 ##
+---
+layout: post
+category : Reviews
+title: 缅怀大蛇丸
+tags : [movie]
+---
+
 
 动画也快演到大蛇丸挂了,作为初期的大反派,一旦要挂,还是非常舍不得
 

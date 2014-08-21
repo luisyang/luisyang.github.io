@@ -1,4 +1,10 @@
-## 一个人逛书店 ##
+---
+layout: post
+category : Diaries
+title: 一个人逛书店
+tags : [life]
+---
+
 
 趁着昨天说的,今天去书城,一个人
  

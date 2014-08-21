@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 买车记
+tags : [life]
+---
 ## 买车记 ##
 
 提前十天来到学校,可能是由于动车组的缘故,好象不用什么适应,马上就投入了新的生活

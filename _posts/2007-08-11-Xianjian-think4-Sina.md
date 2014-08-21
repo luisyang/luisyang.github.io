@@ -1,4 +1,10 @@
-## 仙思(四)-人物关系 ##
+---
+layout: post
+category : 仙剑
+title: 仙思(四)-人物关系
+tags : [仙思]
+---
+
 
 ![](http://img3.douban.com/view/photo/photo/public/p2188738654.jpg)
  

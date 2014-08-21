@@ -1,4 +1,10 @@
-## 九月偶感(关于死别) ##
+---
+layout: post
+category : Diaries
+title: 九月偶感(关于死别)
+tags : [life,poem]
+---
+
 
 很不喜欢谈到的话题--死亡和离别
  

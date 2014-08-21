@@ -1,4 +1,10 @@
-## 似曾相识 ##
+---
+layout: post
+category : Diaries
+title: 似曾相识
+tags : [life,Shanghai,poem]
+---
+
  
 不足一年的时光,或许不算长.
 

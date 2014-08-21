@@ -1,4 +1,10 @@
-## 鸣人原来是太子党 ##
+---
+layout: post
+category : Review
+title: 鸣人原来是太子党
+tags : [movie]
+---
+
 
 宇助波那边的情况还没理顺，不过鸣人的身份终于可以很确切的知道了
 

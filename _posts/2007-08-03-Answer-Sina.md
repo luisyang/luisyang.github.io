@@ -1,4 +1,10 @@
-## 被小黑点名 ##
+---
+layout: post
+category : Diaries
+title: 被小黑点名
+tags : [点名]
+---
+
 
 1.2008年最想要做的是什么.
 

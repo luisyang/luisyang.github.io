@@ -1,4 +1,10 @@
-## 寒假计划(初) ##
+---
+layout: post
+category : Diaries
+title: 寒假计划(初) 
+tags : [life]
+---
+
 
 还剩最后一门考试了,相当于马拉松进了内场
  

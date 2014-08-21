@@ -1,4 +1,10 @@
-## 保持好心情的20条建议 ##
+---
+layout: post
+category : Diaries
+title: 保持好心情的20条建议
+tags : [life]
+---
+
 
 1.每天拍几张照片
 

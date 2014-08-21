@@ -1,4 +1,10 @@
-## 一月偶感(关于猫) ##
+---
+layout: post
+category : Diaries
+title: 一月偶感(关于猫)
+tags : [life]
+---
+
 
 关于猫,能说的太多了,只是非常凌乱
  

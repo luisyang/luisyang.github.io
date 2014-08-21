@@ -1,4 +1,10 @@
-## 争取并抓紧阳光 ##
+---
+layout: post
+category : Diaries
+title: 争取并抓紧阳光
+tags : [life,Shanghai]
+---
+
 
 今天去瑞安楼领表,交费,再一次的网上报名
  

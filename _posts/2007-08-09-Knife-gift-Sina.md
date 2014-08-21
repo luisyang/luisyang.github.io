@@ -1,3 +1,9 @@
+---
+layout: post
+category : Diaries
+title: 赠刀
+tags : [life，Yichun,poem]
+---
 ## 赠刀 ##
 
 时八月,天酷暑归心似箭,望乡亦苦  记去年欠礼于浩君,至今年乃以偿之,赧甚 

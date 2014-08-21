@@ -1,4 +1,10 @@
-## 仙乐(一) ##
+---
+layout: post
+category : 仙剑
+title: 仙乐(一)
+tags : [仙乐]
+---
+
 
 霜天晓角-别江南
  

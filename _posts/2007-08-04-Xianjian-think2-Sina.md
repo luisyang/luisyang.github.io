@@ -1,4 +1,10 @@
-## 仙思(二)-关于幕后大BOSS ##
+---
+layout: post
+category : 仙剑
+title: 仙思(二)-关于幕后大BOSS
+tags : [仙思]
+---
+
 
 一切的一切,都是因为矛盾而存在
  

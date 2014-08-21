@@ -1,4 +1,10 @@
-## 第十日 ##
+---
+layout: post
+category : Diaries
+title: 第十日
+tags : [life]
+---
+
 
 本来想继续在寝室宅一天，结果去刘高那串门,真是宅男见宅男,越来越烦,结果被拉去买车模了
  

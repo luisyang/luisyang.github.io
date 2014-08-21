@@ -1,4 +1,10 @@
-## 不认可L的正义 ##
+---
+layout: post
+category : Reviews
+title: 不认可L的正义
+tags : [movie]
+---
+
 
 虽然月的正义更不可取,但L代表的也绝对不是正义
 

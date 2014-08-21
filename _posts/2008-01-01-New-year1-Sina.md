@@ -1,4 +1,10 @@
-## 跨年钟声 ##
+---
+layout: post
+category : Diaries
+title: 跨年钟声
+tags : [life]
+---
+
 
 07年的最后一天,终于疯狂了一次,跑南京路去听新年钟声
  

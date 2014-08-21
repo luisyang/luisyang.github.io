@@ -1,4 +1,10 @@
-## 仙剑(九)-琴起 ##
+---
+layout: post
+category : 仙剑
+title: 仙剑(九)-琴起
+tags : [连载]
+---
+
 
 > 旦日
 

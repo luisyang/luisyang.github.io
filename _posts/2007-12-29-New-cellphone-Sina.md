@@ -1,4 +1,10 @@
-## 新年礼物 ##
+---
+layout: post
+category : Diaries
+title: 新年礼物
+tags : [life]
+---
+
 
 本年度终于又奢了一次----新手机哈哈 
  

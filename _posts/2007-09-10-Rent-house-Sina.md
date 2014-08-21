@@ -1,4 +1,10 @@
-## 租房记 ##
+---
+layout: post
+category : Diaries
+title: 租房记
+tags : [life,Shanghai]
+---
+
 
 提前十天到学校可不是白到的,解决好车子问题,剩下的就是房子问题了
  

@@ -1,4 +1,10 @@
-## 08的梦想 ##
+---
+layout: post
+category : Diaries
+title: 08的梦想
+tags : [summary]
+---
+
 
 07年写的是06总结,当时回顾06,觉得没什么遗憾
  
