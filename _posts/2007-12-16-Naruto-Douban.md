@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Review
+category : Reviews
 title: 鸣人原来是太子党
 tags : [movie]
 ---
